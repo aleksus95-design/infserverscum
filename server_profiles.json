@@ -1,3 +1,15 @@
 {
-  "profiles": []
+  "profiles": [
+    {
+      "connect_address": "109.248.4.59:7002",
+      "name": "SURVIVAL SCUM PVE [MAX Loot][MAX Transpotrt][MOD+]",
+      "public_title": "",
+      "owner_name": "",
+      "discord_url": "https://discord.gg/RfJQ2ntE4u",
+      "website_url": "https://wargm.ru/server/72038/shop",
+      "youtube_url": "",
+      "description": "фсмфс",
+      "updated_at": "2026-04-05 15:06:05"
+    }
+  ]
 }
