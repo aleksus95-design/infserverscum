@@ -107,6 +107,24 @@
       "custom_icon_size": 28,
       "custom_icon_expires_at": null,
       "updated_at": "2026-04-09 00:09:04"
+    },
+    {
+      "connect_address": "109.248.4.59:7008",
+      "name": "WILD-4C7B5481 SCUM Server",
+      "public_title": "",
+      "owner_name": "",
+      "discord_url": "",
+      "website_url": "",
+      "youtube_url": "",
+      "description": "",
+      "anti_cheat_api_url": "",
+      "anti_cheat_logs_url": "https://github.com/aleksus95-design/anticheat",
+      "highlight_color": "",
+      "highlight_color_expires_at": null,
+      "custom_icon_url": "",
+      "custom_icon_size": 28,
+      "custom_icon_expires_at": null,
+      "updated_at": "2026-04-09 01:17:32"
     }
   ]
 }
