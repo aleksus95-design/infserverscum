@@ -159,6 +159,34 @@
       "custom_icon_size": 28,
       "custom_icon_expires_at": null,
       "updated_at": "2026-04-09 01:17:32"
+    },
+    {
+      "connect_address": "85.88.179.207:2828",
+      "name": "Amurka_PVE_MOD",
+      "public_title": "",
+      "owner_name": "",
+      "discord_url": "",
+      "website_url": "",
+      "lolka_url": "",
+      "youtube_url": "",
+      "description": "",
+      "rules_text": "",
+      "about_text": "",
+      "anti_cheat_api_url": "",
+      "anti_cheat_logs_url": "",
+      "mod_repositories": [
+        {
+          "owner": "tolyan28rus",
+          "repo": "amurka_mods",
+          "branch": "main"
+        }
+      ],
+      "highlight_color": "",
+      "highlight_color_expires_at": null,
+      "custom_icon_url": "",
+      "custom_icon_size": 28,
+      "custom_icon_expires_at": null,
+      "updated_at": "2026-04-12 00:34:11"
     }
   ]
 }
