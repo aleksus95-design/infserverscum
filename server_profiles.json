@@ -146,13 +146,7 @@
       "about_text": "",
       "anti_cheat_api_url": "",
       "anti_cheat_logs_url": "https://github.com/aleksus95-design/anticheat",
-      "mod_repositories": [
-        {
-          "owner": "aleksus95-design",
-          "repo": "mapscum",
-          "branch": "main"
-        }
-      ],
+      "mod_repositories": [],
       "highlight_color": "",
       "highlight_color_expires_at": null,
       "custom_icon_url": "",
