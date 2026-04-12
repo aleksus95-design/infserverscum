@@ -181,6 +181,34 @@
       "custom_icon_size": 28,
       "custom_icon_expires_at": null,
       "updated_at": "2026-04-12 00:34:11"
+    },
+    {
+      "connect_address": "195.18.27.210:7002",
+      "name": "WL-2N55-AEQ",
+      "public_title": "",
+      "owner_name": "",
+      "discord_url": "",
+      "website_url": "",
+      "lolka_url": "",
+      "youtube_url": "",
+      "description": "",
+      "rules_text": "",
+      "about_text": "",
+      "anti_cheat_api_url": "",
+      "anti_cheat_logs_url": "",
+      "mod_repositories": [
+        {
+          "owner": "RescuerLoD",
+          "repo": "Mods",
+          "branch": "main"
+        }
+      ],
+      "highlight_color": "",
+      "highlight_color_expires_at": null,
+      "custom_icon_url": "",
+      "custom_icon_size": 28,
+      "custom_icon_expires_at": null,
+      "updated_at": "2026-04-12 14:12:15"
     }
   ]
 }
