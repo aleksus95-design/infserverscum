@@ -193,7 +193,7 @@
       "mod_repositories": [
         {
           "owner": "RescuerLoD",
-          "repo": "Mods",
+          "repo": "Mod",
           "branch": "main"
         }
       ],
