@@ -163,7 +163,7 @@
     },
     {
       "connect_address": "85.88.179.207:2828",
-      "name": "WargmClaim282892 Amurka_PVE_Hard",
+      "name": "Amurka_PVE_Hard",
       "public_title": "",
       "owner_name": "",
       "discord_url": "https://discord.gg/CApw7CYBtA",
@@ -270,6 +270,35 @@
       "custom_icon_size": 28,
       "custom_icon_expires_at": null,
       "updated_at": "2026-04-14 09:29:39"
+    },
+    {
+      "connect_address": "109.248.4.14:7014",
+      "name": "WL-BGS3-GM4 AMURKA_2.0_PVE_MOD",
+      "public_title": "",
+      "owner_name": "",
+      "discord_url": "",
+      "website_url": "",
+      "lolka_url": "",
+      "youtube_url": "",
+      "description": "",
+      "rules_text": "",
+      "about_text": "",
+      "anti_cheat_api_url": "",
+      "anti_cheat_logs_path": "",
+      "anti_cheat_logs_url": "",
+      "mod_repositories": [
+        {
+          "owner": "tolyan28rus",
+          "repo": "amurka-pve-mods",
+          "branch": "main"
+        }
+      ],
+      "highlight_color": "",
+      "highlight_color_expires_at": null,
+      "custom_icon_url": "",
+      "custom_icon_size": 28,
+      "custom_icon_expires_at": null,
+      "updated_at": "2026-04-21 18:43:15"
     }
   ]
 }
