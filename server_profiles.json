@@ -231,7 +231,7 @@
       "mod_repositories": [
         {
           "owner": "BAAL666777",
-          "repo": "Mods2.0",
+          "repo": "WTHModPack",
           "branch": "main"
         }
       ],
@@ -244,7 +244,7 @@
     },
     {
       "connect_address": "185.133.40.100:7009",
-      "name": "AMURKA_2.0_PVE_MOD",
+      "name": "Hosted by XLGAMES.GG",
       "public_title": "",
       "owner_name": "",
       "discord_url": "",
