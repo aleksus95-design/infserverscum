@@ -228,13 +228,7 @@
       "anti_cheat_api_url": "",
       "anti_cheat_logs_path": "",
       "anti_cheat_logs_url": "https://github.com/BAAL666777/Anticheat",
-      "mod_repositories": [
-        {
-          "owner": "BAAL666777",
-          "repo": "WTHModPack",
-          "branch": "main"
-        }
-      ],
+      "mod_repositories": [],
       "highlight_color": "",
       "highlight_color_expires_at": null,
       "custom_icon_url": "",
